@@ -1,6 +1,11 @@
 # Test task for Akticom
 
+## Production
 
+This test project is deployed on Heroku and is available at the following address:
+```
+https://test-akticom-23efd9c74145.herokuapp.com/
+```
 
 ## Getting started
 
